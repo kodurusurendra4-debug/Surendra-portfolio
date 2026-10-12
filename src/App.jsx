@@ -102,7 +102,7 @@ function App(){
 </div>
 
 <div className="coding-profiles">
-  <a href="https://github.com/kodurusurendra4-debug" target="_blank">
+  <a href="https://github.com/kodurusurendra25" target="_blank">
     GitHub
   </a>
 
@@ -129,7 +129,7 @@ function App(){
   </p>
 
   <a
-    href="https://github.com/kodurusurendra4-debug/calender"
+    href="https://github.com/kodurusurendra25/calender"
     target="_blank"
     rel="noopener noreferrer"
   >
@@ -150,13 +150,13 @@ function App(){
   </p>
 
   <a
-  href="https://kodurusurendra4-debug.github.io/student-hub/"
+  href="https://kodurusurendra25.github.io/student-hub/"
   target="_blank"
 >
   Live Demo
 </a>
 <a
-  href="https://github.com/kodurusurendra4-debug/student-hub"
+  href="https://github.com/kodurusurendra25/student-hub"
   target="_blank"
 >
   View Code
@@ -200,7 +200,7 @@ function App(){
   </a>
 
   <a
-    href="https://github.com/kodurusurendra4-debug"
+    href="https://github.com/kodurusurendra25"
     target="_blank"
   >
     GitHub
