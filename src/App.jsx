@@ -24,9 +24,9 @@ function App(){
   Currently learning DSA, React.js, and backend development.
 </p>
 <a
-  href="/resume.pdf"
+  href={`${import.meta.env.BASE_URL}resume.pdf`}
   className="resume-btn"
-  target="_blank"
+  download
 >
   Download Resume
 </a>
